@@ -1,4 +1,4 @@
 - Boas vindas ao meu perfil
 - eu sou PedroLucas240609 
 - estou estudando no alura
--  utilizo esse espaço para minha organização e compartilhamentos dos meus 
+-  utilizo esse espaço para minha organização e compartilhamentos dos meus desenvolvimentos
